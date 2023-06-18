@@ -1,0 +1,12 @@
+/*=========================================================================================
+  File Name: main.scss
+  Description: Main scss file. Imports other scss partials from 'saas' folder
+==========================================================================================*/
+@import "abstracts/variables";
+@import "abstracts/functions";
+@import "abstracts/mixins";
+
+@import "base/reset";
+@import "base/typography";
+
+@import "custom";

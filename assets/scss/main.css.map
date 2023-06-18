@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;4FAG4F;ACH5F;;2DAE2D",
+    "sources": [
+        "main.scss",
+        "abstracts/_variables.scss",
+        "abstracts/_functions.scss",
+        "abstracts/_mixins.scss",
+        "base/_reset.scss",
+        "base/_typography.scss",
+        "custom.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
